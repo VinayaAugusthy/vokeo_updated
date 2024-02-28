@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100384021450",
+    "project_id": "vokeo-c061f",
+    "storage_bucket": "vokeo-c061f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100384021450:android:324f189049d5f53b6a8d33",
+        "android_client_info": {
+          "package_name": "com.ivarva.vokeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100384021450-av0dlonr4493hh0q2llbi953dopndsqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivarva.vokeo",
+            "certificate_hash": "16b772d40a95267fae6319ea272a0173de3c4799"
+          }
+        },
+        {
+          "client_id": "100384021450-u8vunf7lb9p86k7prrheme5quve58bfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5JiInm7FI9f08Fjl-Mi6Y2vB3KY4fOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100384021450-u8vunf7lb9p86k7prrheme5quve58bfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
